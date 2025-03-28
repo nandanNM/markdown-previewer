@@ -13,12 +13,9 @@ A simple web application that allows users to write Markdown and preview the ren
 
 ### Markdown Editor and Preview
 
-![Markdown Editor and Preview](https://via.placeholder.com/800x400?text=Markdown+Editor+and+Preview)
+![image](https://github.com/user-attachments/assets/1fa5ee1f-1e73-445e-99d3-258b3689c4b1)
 
-### Syntax Highlighting
-
-![Syntax Highlighting](https://via.placeholder.com/800x400?text=Syntax+Highlighting)
 
 ## Deployment
 
-You can access the live application here: [Markdown Previewer Deployment](https://your-deployment-link.com)
+You can access the live application here: [Markdown Previewer Deployment]([https://your-deployment-link.com](https://markdown-previewer-one-delta.vercel.app/))
